@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2978b157b6354d39aa006b23950c694f, type: 3}
+  m_Name: HeroWeaponSet
+  m_EditorClassIdentifier: 
+  Weapons:
+  - {fileID: 11400000, guid: 97214d8c699ac4e2eaea30510a456143, type: 2}
+  - {fileID: 11400000, guid: 4c101ed0748494c24997876d0504c3f6, type: 2}
+  - {fileID: 11400000, guid: 571b5f2be241c4adba2d58e075623de6, type: 2}
